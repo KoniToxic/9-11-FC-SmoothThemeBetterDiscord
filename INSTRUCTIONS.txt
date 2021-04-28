@@ -1,4 +1,4 @@
 1. Install better discord
 2. Open Discord - settings - Themes- open theme folder (top right)
-3. Drag and drop the 9/11FC.theme.css to the pop-up folder which got open (the theme folder0
+3. Drag and drop the 9/11FlightCrew.theme.css to the pop-up folder which got open (the theme folder0
 4. Go back to discord and activate the new theme.
